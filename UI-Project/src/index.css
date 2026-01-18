@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+#card-div::-webkit-scrollbar {
+  display: none;
+}
+
+#statCard{
+  clip-path: polygon(80% 0, 80% 24%, 100% 24%, 100% 100%, 0 100%, 0 0);
+}
