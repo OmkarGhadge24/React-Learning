@@ -14,3 +14,4 @@ Learning ReactJs from basics to advanced.
 - Local Storage : [`Local Storage`](https://github.com/OmkarGhadge24/React-Learning/tree/main/Local%20Storage)
 - API Calling : [`API Calling`](https://github.com/OmkarGhadge24/React-Learning/tree/main/API%20Calling)
 - Gallery Project : [`Gallery Project`](https://github.com/OmkarGhadge24/React-Learning/tree/main/Gallery%20Project)
+- React Router : [`React Router`](https://github.com/OmkarGhadge24/React-Learning/tree/main/React%20Router)
