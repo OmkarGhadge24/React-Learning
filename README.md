@@ -15,3 +15,4 @@ Learning ReactJs from basics to advanced.
 - API Calling : [`API Calling`](https://github.com/OmkarGhadge24/React-Learning/tree/main/API%20Calling)
 - Gallery Project : [`Gallery Project`](https://github.com/OmkarGhadge24/React-Learning/tree/main/Gallery%20Project)
 - React Router : [`React Router`](https://github.com/OmkarGhadge24/React-Learning/tree/main/React%20Router)
+- Advance Routing : [`Advance Routing`](https://github.com/OmkarGhadge24/React-Learning/tree/main/Advance%20Routing)
